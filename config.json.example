@@ -1,0 +1,354 @@
+{
+  "compId": "06e03f29-8159-49c4-8402-cc697c426318",
+  "apikey": "c7a65fca-45c0-4b7e-98c7-3b16e109fa91",
+  "teams": [{
+      "teamname": "Team 1",
+      "scoredObjects": [
+        {
+          "type": "ssh",
+          "host": "172.16.1.17",
+          "port": "22",
+          "users": ["administrator@goldenrod.city:C4tchThemA11!"],
+          "displayName": "PokeMart-SSH"
+        },
+        {
+          "type": "http",
+          "host": "http://172.16.1.17/index.php/master-ball.html?SID=nuk9bq9jbu32vmvq5eb5rvr4d4",
+          "md5": "779d64ff0b9a4bf829c025a51b19df78",
+          "displayName": "PokeMart-HTTP"
+        },
+        {
+          "type": "http",
+          "host": "http://172.16.1.24/index.php/request-your-free-eevees/",
+          "md5": "a7784a9dbcef686579c7d95c5b18d49c",
+          "displayName": "Bill's House-HTTP"
+        },
+        {
+          "type": "http",
+          "host": "http://172.16.1.14/?page_id=18",
+          "md5": "2e8ec323a8f2c905a281bd4b800613d9",
+          "displayName": "Pokecom-HTTP"
+        },
+        {
+          "type": "http",
+          "host": "http://172.16.1.16:8080/2021/02/19/pokemon-center",
+          "md5": "616cf88150e5aa2a16d4b422fbdade9d",
+          "displayName": "PokemonCenter-HTTP"
+        },
+        {
+          "type": "http",
+          "host": "http://172.16.1.22/wordpress/2021/03/05/gym-battle-request",
+          "md5": "d692fa29edc2f236e9b47812247038c9",
+          "displayName": "Gym-HTTP"
+        },
+        {
+          "type": "dns",
+          "host": "172.16.1.21",
+          "displayName": "GlobalTerminal-DNS"
+        },
+        {
+          "type": "ftp",
+          "host": "172.16.1.23",
+          "port": "21",
+          "users": ["Administrator:C4tchThemA11!"],
+          "displayName": "PCBox-FTP"
+        },{
+          "type": "http",
+          "host": "http://172.16.1.15",
+          "md5": "c355d7773a7bedd0fa49e5a476aaf621",
+          "displayName": "FlowerShop-HTTP"
+        }
+      ]
+    },{
+        "teamname": "Team 2",
+        "scoredObjects": [
+          {
+            "type": "ssh",
+            "host": "172.16.2.17",
+            "port": "22",
+            "users": ["administrator@goldenrod.city:C4tchThemA11!"],
+            "displayName": "PokeMart-SSH"
+          },
+          {
+            "type": "http",
+            "host": "http://172.16.2.17/index.php/master-ball.html?SID=64egtqrr4cp6rhpqnrjkj1mr46",
+            "md5": "4cd3ad501d42b1d4494b3fea012b8cc9",
+            "displayName": "PokeMart-HTTP"
+          },
+          {
+            "type": "http",
+            "host": "http://172.16.2.24/index.php/request-your-free-eevees/",
+            "md5": "bf3231d7fad0292d818aac7d6d669f00",
+            "displayName": "Bill's House-HTTP"
+          },
+          {
+            "type": "http",
+            "host": "http://172.16.2.14/?page_id=18",
+            "md5": "2e8ec323a8f2c905a281bd4b800613d9",
+            "displayName": "Pokecom-HTTP"
+          },
+          {
+            "type": "http",
+            "host": "http://172.16.2.16:8080/2021/02/19/pokemon-center",
+            "md5": "616cf88150e5aa2a16d4b422fbdade9d",
+            "displayName": "PokemonCenter-HTTP"
+          },
+          {
+            "type": "http",
+            "host": "http://172.16.2.22/wordpress/2021/03/05/gym-battle-request",
+            "md5": "e2766f607126e477d20182752aa672c0",
+            "displayName": "Gym-HTTP"
+          },
+          {
+            "type": "dns",
+            "host": "172.16.2.21",
+            "displayName": "GlobalTerminal-DNS"
+          },
+          {
+            "type": "ftp",
+            "host": "172.16.2.23",
+            "port": "21",
+            "users": ["Administrator:C4tchThemA11!"],
+            "displayName": "PCBox-FTP"
+          },{
+            "type": "http",
+            "host": "http://172.16.2.15",
+            "md5": "c355d7773a7bedd0fa49e5a476aaf621",
+            "displayName": "FlowerShop-HTTP"
+          }
+        ]
+      },{
+          "teamname": "Team 3",
+          "scoredObjects": [
+            {
+              "type": "ssh",
+              "host": "172.16.3.17",
+              "port": "22",
+              "users": ["Administrator@goldenrod.city:C4tchThemA11!"],
+              "displayName": "PokeMart-SSH"
+            },
+            {
+              "type": "http",
+              "host": "http://172.16.3.17/index.php/master-ball.html?SID=64egtqrr4cp6rhpqnrjkj1mr46",
+              "md5": "936f9cead373408d3630ad0d004bd9c6",
+              "displayName": "PokeMart-HTTP"
+            },
+            {
+              "type": "http",
+              "host": "http://172.16.3.24/index.php/request-your-free-eevees/",
+              "md5": "a7784a9dbcef686579c7d95c5b18d49c",
+              "displayName": "Bill's House-HTTP"
+            },
+            {
+              "type": "http",
+              "host": "http://172.16.3.14/?page_id=18",
+              "md5": "2e8ec323a8f2c905a281bd4b800613d9",
+              "displayName": "Pokecom-HTTP"
+            },
+            {
+              "type": "http",
+              "host": "http://172.16.3.16:8080/2021/02/19/pokemon-center",
+              "md5": "616cf88150e5aa2a16d4b422fbdade9d",
+              "displayName": "PokemonCenter-HTTP"
+            },
+            {
+              "type": "http",
+              "host": "http://172.16.3.22/wordpress/2021/03/05/gym-battle-request",
+              "md5": "69ac532c2a510df125a76ff61908658f",
+              "displayName": "Gym-HTTP"
+            },
+            {
+              "type": "dns",
+              "host": "172.16.3.21",
+              "displayName": "GlobalTerminal-DNS"
+            },
+            {
+              "type": "ftp",
+              "host": "172.16.3.23",
+              "port": "21",
+              "users": ["Administrator:C4tchThemA11!"],
+              "displayName": "PCBox-FTP"
+            },{
+              "type": "http",
+              "host": "http://172.16.3.15",
+              "md5": "c355d7773a7bedd0fa49e5a476aaf621",
+              "displayName": "FlowerShop-HTTP"
+            }
+          ]
+        },{
+            "teamname": "Team 4",
+            "scoredObjects": [
+              {
+                "type": "ssh",
+                "host": "172.16.4.17",
+                "port": "22",
+                "users": ["Administrator@goldenrod.city:C4tchThemA11!"],
+                "displayName": "PokeMart-SSH"
+              },
+              {
+                "type": "http",
+                "host": "http://172.16.4.17/index.php/master-ball.html?SID=64egtqrr4cp6rhpqnrjkj1mr46",
+                "md5": "0511dc82ee36f468289dd664a9f6be1a",
+                "displayName": "PokeMart-HTTP"
+              },
+              {
+                "type": "http",
+                "host": "http://172.16.4.24/index.php/request-your-free-eevees/",
+                "md5": "a7784a9dbcef686579c7d95c5b18d49c",
+                "displayName": "Bill's House-HTTP"
+              },
+              {
+                "type": "http",
+                "host": "http://172.16.4.14/?page_id=18",
+                "md5": "2e8ec323a8f2c905a281bd4b800613d9",
+                "displayName": "Pokecom-HTTP"
+              },
+              {
+                "type": "http",
+                "host": "http://172.16.4.16:8080/2021/02/19/pokemon-center",
+                "md5": "616cf88150e5aa2a16d4b422fbdade9d",
+                "displayName": "PokemonCenter-HTTP"
+              },
+              {
+                "type": "http",
+                "host": "http://172.16.4.22/wordpress/2021/03/05/gym-battle-request",
+                "md5": "128d348613300a817e9434021d39ed5d",
+                "displayName": "Gym-HTTP"
+              },
+              {
+                "type": "dns",
+                "host": "172.16.4.21",
+                "displayName": "GlobalTerminal-DNS"
+              },
+              {
+                "type": "ftp",
+                "host": "172.16.4.23",
+                "port": "21",
+                "users": ["Administrator:C4tchThemA11!"],
+                "displayName": "PCBox-FTP"
+              },{
+                "type": "http",
+                "host": "http://172.16.4.15",
+                "md5": "c355d7773a7bedd0fa49e5a476aaf621",
+                "displayName": "FlowerShop-HTTP"
+              }
+            ]
+          },{
+              "teamname": "Team 5",
+              "scoredObjects": [
+                {
+                  "type": "ssh",
+                  "host": "172.16.5.17",
+                  "port": "22",
+                  "users": ["administrator@goldenrod.city:C4tchThemA11!"],
+                  "displayName": "PokeMart-SSH"
+                },
+                {
+                  "type": "http",
+                  "host": "http://172.16.5.17/index.php/master-ball.html?SID=evg3g1r58l6ipknl4qk401cmg3",
+                  "md5": "915edccf3c89f45d63d7d4a82e444254",
+                  "displayName": "PokeMart-HTTP"
+                },
+                {
+                  "type": "http",
+                  "host": "http://172.16.5.24/index.php/request-your-free-eevees/",
+                  "md5": "a7784a9dbcef686579c7d95c5b18d49c",
+                  "displayName": "Bill's House-HTTP"
+                },
+                {
+                  "type": "http",
+                  "host": "http://172.16.5.14/?page_id=18",
+                  "md5": "2e8ec323a8f2c905a281bd4b800613d9",
+                  "displayName": "Pokecom-HTTP"
+                },
+                {
+                  "type": "http",
+                  "host": "http://172.16.5.16:8080/2021/02/19/pokemon-center",
+                  "md5": "616cf88150e5aa2a16d4b422fbdade9d",
+                  "displayName": "PokemonCenter-HTTP"
+                },
+                {
+                  "type": "http",
+                  "host": "http://172.16.5.22/wordpress/2021/03/05/gym-battle-request",
+                  "md5": "d0409b19431de659ded71299f507c4bf",
+                  "displayName": "Gym-HTTP"
+                },
+                {
+                  "type": "dns",
+                  "host": "172.16.5.21",
+                  "displayName": "GlobalTerminal-DNS"
+                },
+                {
+                  "type": "ftp",
+                  "host": "172.16.5.23",
+                  "port": "21",
+                  "users": ["Administrator:C4tchThemA11!"],
+                  "displayName": "PCBox-FTP"
+                },{
+                  "type": "http",
+                  "host": "http://172.16.5.15",
+                  "md5": "2730abfdfdf9d54a7f7a839e89afa70f",
+                  "displayName": "FlowerShop-HTTP"
+                }
+              ]
+              },{
+                  "teamname": "Test Team",
+                  "scoredObjects": [
+                    {
+                      "type": "ssh",
+                      "host": "172.16.98.17",
+                      "port": "22",
+                      "users": ["administrator@goldenrod.city:C4tchThemA11!"],
+                      "displayName": "PokeMart-SSH"
+                    },
+                    {
+                      "type": "http",
+                      "host": "http://172.16.98.17/index.php/master-ball.html?SID=evg3g1r58l6ipknl4qk401cmg3",
+                      "md5": "ccf0db02d50896c2aef880e9579dc422",
+                      "displayName": "PokeMart-HTTP"
+                    },
+                    {
+                      "type": "http",
+                      "host": "http://172.16.98.24/index.php/request-your-free-eevees/",
+                      "md5": "a7784a9dbcef686579c7d95c5b18d49c",
+                      "displayName": "Bill's House-HTTP"
+                    },
+                    {
+                      "type": "http",
+                      "host": "http://172.16.98.14/?page_id=18",
+                      "md5": "2e8ec323a8f2c905a281bd4b800613d9",
+                      "displayName": "Pokecom-HTTP"
+                    },
+                    {
+                      "type": "http",
+                      "host": "http://172.16.98.16:8080/2021/02/19/pokemon-center",
+                      "md5": "54e9319e2c6bd4d9fec124d3a3db4ed1",
+                      "displayName": "PokemonCenter-HTTP"
+                    },
+                    {
+                      "type": "http",
+                      "host": "http://172.16.98.22/wordpress/2021/03/05/gym-battle-request",
+                      "md5": "626a6dbb68b21f16e773ea5b48ce38e3",
+                      "displayName": "Gym-HTTP"
+                    },
+                    {
+                      "type": "dns",
+                      "host": "172.16.98.21",
+                      "displayName": "GlobalTerminal-DNS"
+                    },
+                    {
+                      "type": "ftp",
+                      "host": "172.16.98.23",
+                      "port": "21",
+                      "users": ["Administrator:C4tchThemA11!"],
+                      "displayName": "PCBox-FTP"
+                    },{
+                      "type": "http",
+                      "host": "http://172.16.98.15",
+                      "md5": "c355d7773a7bedd0fa49e5a476aaf621",
+                      "displayName": "FlowerShop-HTTP"
+                    }
+                  ]
+                }
+  ]
+}
